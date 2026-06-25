@@ -56,4 +56,4 @@ Adicione estas playlists ao seu cronograma para aprofundar em tópicos específi
 2. Clone no seu computador.
 3. À medida que for concluindo cada etapa, mude as caixas de seleção de `[ ]` para `[x]` para acompanhar visualmente o seu progresso!
 
-_Boa sorte nos estudos rumo à certificação Microsoft Certified Associate!_ 🚀
+_Boa preparação rumo à certificação Fabric Analytics Engineer Associate!_ 🚀
